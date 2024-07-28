@@ -1,1 +1,22 @@
+PROJECT - HOUSE PRICES PREDICTION SYSTEM
 
+AIM - To predict house prices using various machine learning algorithms. The dataset used 
+for this project is the well-known Kaggle competition dataset, "House Prices: Advanced Regression Techniques".
+
+This project demonstrates the use of machine learning techniques to predict house prices based on various features. The goal is to build a model that can accurately estimate the price of a house given its features.
+
+Key Highlights - 
+
+Comprehensive Data Preprocessing: Handling missing values, encoding categorical variables, and scaling numerical features.
+
+Exploration of Multiple Models: Including Linear Regression, Decision Tree, Random Forest, Gradient Boosting, and XGBoost.
+
+Robust Evaluation Metrics: Using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared for performance assessment.
+
+Feature Engineering: Creating and selecting relevant features to enhance model accuracy.
+
+User-Friendly Jupyter Notebooks: Step-by-step guides for data exploration, preprocessing, and model training.
+
+Conclusion - 
+
+The House Prices Prediction System demonstrates the practical application of machine learning techniques to predict real estate prices. By exploring various models and utilizing extensive feature engineering and data preprocessing, we have shown how different algorithms can be applied to tackle regression problems in real-world scenarios.
