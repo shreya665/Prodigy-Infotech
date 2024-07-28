@@ -1,1 +1,26 @@
+PROJECT - K-MEANS RETAIL PURCHASE SYSTEM
 
+AIM - To analyze retail purchase data using the K-means clustering algorithm to identify 
+customer segments.
+
+This project demonstrates the use of the K-means clustering algorithm to segment customers based on their purchasing behavior. The goal is to group customers with similar purchasing patterns to better understand and target different segments.
+
+DATASET - 
+
+The dataset used in this project consists of retail purchase data, which includes information about customers, products, and transactions. You can use any retail dataset that contains these types of information or use a sample dataset provided in the data folder. 
+
+LIBRARY USED - 
+
+The project relies on several Python libraries for data processing, clustering, and visualization. These libraries include:
+
+Pandas: For data manipulation and analysis.
+
+NumPy: For numerical operations and handling arrays.
+
+Matplotlib: For creating visualizations such as cluster plots.
+
+Seaborn: For statistical data visualization, providing enhanced graphics.
+
+CONCLUSION - 
+
+The K-means Retail Purchase Analysis project demonstrates the practical application of clustering techniques to segment customers based on their purchasing behavior. By leveraging the K-means algorithm, we can identify distinct customer groups that share similar purchasing patterns, which can help in targeted marketing and personalized customer experiences.
